@@ -1,5 +1,10 @@
 # Stuff for the FlashForge Adventurer 5M Pro (only) running Klipper firmware
-## Klipper firmware available [here](https://github.com/xblax/flashforge_ad5m_klipper_mod)
+### Klipper firmware available [here](https://github.com/xblax/flashforge_ad5m_klipper_mod)
+
+<br></br>
+# Disclaimer
+## I'm not using Klipper firmware for the time being, and don't actively maintain these configurations (at this time)
+<br></br>
 
 # Initial Setup
 -  Open macros.cfg on your printer (from within Fluidd/Mainsail on your PC, etc)
